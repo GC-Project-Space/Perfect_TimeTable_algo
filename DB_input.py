@@ -1,29 +1,41 @@
 import json
 
 
-# 데이터를 불러오는 함수
-# Input area = 전공, 일반교양, [융합]인간과예술 등의 영역
-# Input grade = 학년
-# Output = 딕셔너리 형태의 과목 정보
-def Data_input(area):
-    # Json 파일 열기
-    if area == "전공":
+class DataBase:
+    # 파일 일어오기
+    def __init__(self):
         with open("data/major.json", "r", encoding="utf-8") as file:
-            data = json.load(file)
-    else:
+            self.major = json.load(file)
         with open("data/elective.json", "r", encoding="utf-8") as file:
-            data = json.load(file)
+            self.elective = json.load(file)
 
-    # 영역에 맞는 과목만 추출
-    result_data = [item for item in data if item.get("영역") == area]
+    # 영역과 요일에 맞춰 데이터를 불러오는 함수
+    def get_week_data(self, area, week):
+        result_data = [
+            item
+            for item in self.elective
+            if item.get("영역") == area and item.get("요일") == week
+        ]
 
-    result = []
-    for i in result_data:
-        result.append(i.values())
+        result = []
+        for i in result_data:
+            result.append(list(i.values()))
 
-    return result
+        return result
 
+    # 영역을 입력하면 그 영역에 맞는 unique한 과목 list return
+    def get_unique_list(self, area):
+        temp = self.get_data(area)
+        result = [list(item) for item in {tuple(data[1:3]) for data in temp}]
 
-result = Data_input("전공")
+        return result
 
-print(result)
+    # 학년을 입력하면 그에 맞는 전공 return
+    def get_major(self, grade):
+        result_data = [item for item in self.major if item.get("학년") == grade]
+
+        result = []
+        for i in result_data:
+            result.append(list(i.values()))
+
+        return result
