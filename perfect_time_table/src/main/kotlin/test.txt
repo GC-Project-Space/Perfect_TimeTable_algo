@@ -1,0 +1,96 @@
+SubList: [
+
+Subject(name=데이터베이스 및 실습 (영어강의) , courseCode=1.4466002E7, startTime=3, day=mon, endTime=5, credit=3.0, series=전공),
+Subject(name=데이터베이스 및 실습 (영어강의) , courseCode=1.4466002E7, startTime=2, day=tue, endTime=3, credit=3.0, series=전공),
+Subject(name=알고리즘 (영어강의) , courseCode=1.4465002E7, startTime=3, day=tue, endTime=4, credit=3.0, series=전공),
+Subject(name=알고리즘 (영어강의) , courseCode=1.4465002E7, startTime=2, day=thu, endTime=4, credit=3.0, series=전공),
+Subject(name=컴퓨터네트워크 및 실습 (영어강의)(MOOC) , courseCode=1.4464002E7, startTime=2, day=fri, endTime=4, credit=3.0, series=전공),
+
+Subject(name=데이터베이스 및 실습 (영어강의) , courseCode=1.4466002E7, startTime=3, day=mon, endTime=5, credit=3.0, series=전공),
+Subject(name=데이터베이스 및 실습 (영어강의) , courseCode=1.4466002E7, startTime=2, day=tue, endTime=3, credit=3.0, series=전공),
+Subject(name=알고리즘 (영어강의) , courseCode=1.4465002E7, startTime=3, day=tue, endTime=4, credit=3.0, series=전공),
+Subject(name=알고리즘 (영어강의) , courseCode=1.4465002E7, startTime=2, day=thu, endTime=4, credit=3.0, series=전공),
+Subject(name=컴퓨터네트워크 및 실습 (영어강의)(MOOC) , courseCode=1.4464002E7, startTime=2, day=fri, endTime=4, credit=3.0, series=전공),
+
+Subject(name=데이터베이스 및 실습 (영어강의) , courseCode=1.4466002E7, startTime=3, day=mon, endTime=5, credit=3.0, series=전공),
+Subject(name=인간·자연·과학 명저 읽기  , courseCode=1.4627011E7, startTime=7, day=mon, endTime=9, credit=2.0, series=일반교양),
+Subject(name=데이터베이스 및 실습 (영어강의) , courseCode=1.4466002E7, startTime=2, day=tue, endTime=3, credit=3.0, series=전공),
+Subject(name=알고리즘 (영어강의) , courseCode=1.4465002E7, startTime=3, day=tue, endTime=4, credit=3.0, series=전공),
+Subject(name=알고리즘 (영어강의) , courseCode=1.4465002E7, startTime=2, day=thu, endTime=4, credit=3.0, series=전공),
+Subject(name=기초일본어회화  , courseCode=1.4738002E7, startTime=7, day=thu, endTime=10, credit=2.0, series=일반교양),
+Subject(name=컴퓨터네트워크 및 실습 (영어강의)(MOOC) , courseCode=1.4464002E7, startTime=2, day=fri, endTime=4, credit=3.0, series=전공)]
+
+
+데이터베이스 및 실습 (영어강의)  3 5 mon
+데이터베이스 및 실습 (영어강의)  2 3 tue
+알고리즘 (영어강의)  3 4 tue
+알고리즘 (영어강의)  2 4 thu
+컴퓨터네트워크 및 실습 (영어강의)(MOOC)  2 4 fri
+
+데이터베이스 및 실습 (영어강의)  3 5 mon
+데이터베이스 및 실습 (영어강의)  2 3 tue
+알고리즘 (영어강의)  3 4 tue
+알고리즘 (영어강의)  2 4 thu
+컴퓨터네트워크 및 실습 (영어강의)(MOOC)  2 4 fri
+
+데이터베이스 및 실습 (영어강의)  3 5 mon
+인간·자연·과학 명저 읽기   7 9 mon
+데이터베이스 및 실습 (영어강의)  2 3 tue
+알고리즘 (영어강의)  3 4 tue
+알고리즘 (영어강의)  2 4 thu
+기초일본어회화   7 10 thu
+컴퓨터네트워크 및 실습 (영어강의)(MOOC)  2 4 fri
+
+2023-12-04 20:22:05.391 10322-10322
+SubList 정보 :            com.example.perfecttimetable         D
+SubList: [
+Subject(name=데이터베이스 및 실습 (영어강의) , courseCode=1.4466002E7, startTime=3, day=mon, endTime=5, credit=3.0, series=전공),
+Subject(name=데이터베이스 및 실습 (영어강의) , courseCode=1.4466002E7, startTime=2, day=tue, endTime=3, credit=3.0, series=전공),
+Subject(name=알고리즘 (영어강의) , courseCode=1.4465002E7, startTime=3, day=tue, endTime=4, credit=3.0, series=전공),
+Subject(name=알고리즘 (영어강의) , courseCode=1.4465002E7, startTime=2, day=thu, endTime=4, credit=3.0, series=전공),
+Subject(name=컴퓨터네트워크 및 실습 (영어강의)(MOOC) , courseCode=1.4464002E7, startTime=2, day=fri, endTime=4, credit=3.0, series=전공)]
+
+
+
+SubList 정보 :            com.example.perfecttimetable         D
+SubList: [
+Subject(name=데이터베이스 및 실습 (영어강의) , courseCode=1.4466002E7, startTime=3, day=mon, endTime=5, credit=3.0, series=전공),
+Subject(name=데이터베이스 및 실습 (영어강의) , courseCode=1.4466002E7, startTime=2, day=tue, endTime=3, credit=3.0, series=전공),
+Subject(name=알고리즘 (영어강의) , courseCode=1.4465002E7, startTime=3, day=tue, endTime=4, credit=3.0, series=전공),
+Subject(name=알고리즘 (영어강의) , courseCode=1.4465002E7, startTime=2, day=thu, endTime=4, credit=3.0, series=전공),
+Subject(name=컴퓨터네트워크 및 실습 (영어강의)(MOOC) , courseCode=1.4464002E7, startTime=2, day=fri, endTime=4, credit=3.0, series=전공),
+
+Subject(name=데이터베이스 및 실습 (영어강의) , courseCode=1.4466002E7, startTime=3, day=mon, endTime=5, credit=3.0, series=전공),
+Subject(name=데이터베이스 및 실습 (영어강의) , courseCode=1.4466002E7, startTime=2, day=tue, endTime=3, credit=3.0, series=전공),
+Subject(name=알고리즘 (영어강의) , courseCode=1.4465002E7, startTime=3, day=tue, endTime=4, credit=3.0, series=전공),
+Subject(name=알고리즘 (영어강의) , courseCode=1.4465002E7, startTime=2, day=thu, endTime=4, credit=3.0, series=전공),
+Subject(name=컴퓨터네트워크 및 실습 (영어강의)(MOOC) , courseCode=1.4464002E7, startTime=2, day=fri, endTime=4, credit=3.0, series=전공),
+
+Subject(name=데이터베이스 및 실습 (영어강의) , courseCode=1.4466002E7, startTime=3, day=mon, endTime=5, credit=3.0, series=전공),
+Subject(name=인간·자연·과학 명저 읽기  , courseCode=1.4627011E7, startTime=7, day=mon, endTime=9, credit=2.0, series=일반교양),
+Subject(name=데이터베이스 및 실습 (영어강의) , courseCode=1.4466002E7, startTime=2, day=tue, endTime=3, credit=3.0, series=전공),
+Subject(name=알고리즘 (영어강의) , courseCode=1.4465002E7, startTime=3, day=tue, endTime=4, credit=3.0, series=전공),
+Subject(name=알고리즘 (영어강의) , courseCode=1.4465002E7, startTime=2, day=thu, endTime=4, credit=3.0, series=전공),
+Subject(name=기초일본어회화  , courseCode=1.4738002E7, startTime=7, day=thu, endTime=10, credit=2.0, series=일반교양),
+Subject(name=컴퓨터네트워크 및 실습 (영어강의)(MOOC) , courseCode=1.4464002E7, startTime=2, day=fri, endTime=4, credit=3.0, series=전공)]
+
+
+SubList 정보 :            com.example.perfecttimetable         D
+SubList: [
+Subject(name=데이터베이스 및 실습 (영어강의) , courseCode=1.4466002E7, startTime=3, day=mon, endTime=5, credit=3.0, series=전공),
+Subject(name=데이터베이스 및 실습 (영어강의) , courseCode=1.4466002E7, startTime=2, day=tue, endTime=3, credit=3.0, series=전공),
+Subject(name=알고리즘 (영어강의) , courseCode=1.4465002E7, startTime=3, day=tue, endTime=4, credit=3.0, series=전공),
+Subject(name=알고리즘 (영어강의) , courseCode=1.4465002E7, startTime=2, day=thu, endTime=4, credit=3.0, series=전공),
+Subject(name=컴퓨터네트워크 및 실습 (영어강의)(MOOC) , courseCode=1.4464002E7, startTime=2, day=fri, endTime=4, credit=3.0, series=전공)]
+
+
+SubList 정보 :            com.example.perfecttimetable         D
+SubList: [
+Subject(name=데이터베이스 및 실습 (영어강의) , courseCode=1.4466002E7, startTime=3, day=mon, endTime=5, credit=3.0, series=전공),
+Subject(name=인간·자연·과학 명저 읽기  , courseCode=1.4627011E7, startTime=7, day=mon, endTime=9, credit=2.0, series=일반교양),
+Subject(name=데이터베이스 및 실습 (영어강의) , courseCode=1.4466002E7, startTime=2, day=tue, endTime=3, credit=3.0, series=전공),
+Subject(name=알고리즘 (영어강의) , courseCode=1.4465002E7, startTime=3, day=tue, endTime=4, credit=3.0, series=전공),
+Subject(name=알고리즘 (영어강의) , courseCode=1.4465002E7, startTime=2, day=thu, endTime=4, credit=3.0, series=전공),
+Subject(name=기초일본어회화  , courseCode=1.4738002E7, startTime=7, day=thu, endTime=10, credit=2.0, series=일반교양),
+Subject(name=컴퓨터네트워크 및 실습 (영어강의)(MOOC) , courseCode=1.4464002E7, startTime=2, day=fri, endTime=4, credit=3.0, series=전공)]
+
