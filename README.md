@@ -43,8 +43,12 @@
 4. 강의 위치 및 거리( 비전,가천, 아융대 ->ai관은 어렵게 걸어서 30분 걸린다는 조건 설정)
 
 
-### 프로젝트 도구
+### Tech Stack
 - Android studio
+- Kotlin
+- VScode
+- python
+- C
 - [Notion](https://radial-morocco-c4c.notion.site/a6871f705c3f48738ec1621ad21e17fa?v=4498f4a8b63c4d9b840d5fa85d887b7c&pvs=4)
 - Kakao Work
 - Figma
