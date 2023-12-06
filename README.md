@@ -53,10 +53,15 @@
 - Kakao Work
 - Figma
 
+## Android View
+| 홈화면 | 시간표 만들기 | 설정 | 시간표 만들어진 모습 |
+|:---:|:---:|:---:|:---:|
+| ![Screenshot_20231206_120010_home](https://github.com/GC-Project-Space/Perfect_TimeTable_AOS/assets/105415118/2dc6885f-0154-4873-844e-3972dfb8abc6)|![Screenshot_20231206_120118_create](https://github.com/GC-Project-Space/Perfect_TimeTable_AOS/assets/105415118/11ec82fd-4e20-4f81-bace-1c379c2c929a)|![Screenshot_20231206_120727](https://github.com/GC-Project-Space/Perfect_TimeTable_AOS/assets/105415118/6b6768ec-e4e9-4c23-b7d6-132007b35ae4)| ![Screenshot_20231206_120210_created](https://github.com/GC-Project-Space/Perfect_TimeTable_AOS/assets/105415118/d6e33ac7-4970-4e3e-800a-83ae8b454ede)|
+
 ## 참여 인원
 <center>
 
-|![이희재](https://avatars.githubusercontent.com/u/83583699?v=4)|![하나/심세원](https://avatars.githubusercontent.com/u/105415118?v=4)|![이지현]()|![박예림]()|![카일로/김현겸]()|
+|![이희재](https://avatars.githubusercontent.com/u/83583699?v=4)|![하나/심세원](https://avatars.githubusercontent.com/u/105415118?v=4)|![이지현]()|![박예림]()|![강현승]()|
 |:---:|:---:|:---:|:---:|:---:|
 |[이희재](https://github.com/Heejae-L)|[하나/심세원](https://github.com/ShimFFF)|[이지현]()|[박예림]()|[강현승]()|
 
